@@ -31,7 +31,7 @@ Como o foco do projeto era a lógica em JavaScript, o estilo em CSS não foi mui
 
 ## Autor
 
-Luca Aquini Antoniazzi
+Luca Anequini Antoniazzi
 
 ---
 
